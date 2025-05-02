@@ -1,4 +1,4 @@
-# ${PROJECT_NAME}
+# crawler_library
 
 [![PyPI version](https://badge.fury.io/py/${PROJECT_NAME}.svg)](https://pypi.org/project/${PROJECT_NAME}/)
 
