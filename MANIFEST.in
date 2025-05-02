@@ -1,0 +1,4 @@
+include LICENSE README.md
+recursive-include crawler *.py
+recursive-include tests *.py
+prune crawler/data

@@ -1,0 +1,2 @@
+[console_scripts]
+crawler_library-cli = crawler.cli:main
